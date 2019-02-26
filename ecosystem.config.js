@@ -12,7 +12,7 @@ module.exports = {
       key: "~/.ssh/tutorial.pem",
       ref: "origin/master",
       repo: "git@github.com:yashraikar1087/aws-deploy.git",
-      path: "/home/ubuntu/",
+      path: "/home/ubuntu/tutorial-2",
       "post-deploy": "npm install && pm2 startOrRestart ecosystem.config.js"
     }
   }
