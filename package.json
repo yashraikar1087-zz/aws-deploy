@@ -1,0 +1,22 @@
+{
+  "name": "aws-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashraikar1087/aws-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashraikar1087/aws-deploy/issues"
+  },
+  "homepage": "https://github.com/yashraikar1087/aws-deploy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
